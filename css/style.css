@@ -20,6 +20,9 @@
     color: #fff !important; 
 }
 
+.navbar-toggler{
+    background-color: #fff !important;
+}
 .navbar .nav-link:hover{
 
     color: var(--secondaryColor) !important; 
@@ -170,6 +173,10 @@ i{
     #display h2{
         padding-top: 40px;
         font-size: 28px;
+    }
+
+    #kidash{
+       text-align: center; 
     }
 
 }
